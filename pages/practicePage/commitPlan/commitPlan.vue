@@ -134,9 +134,9 @@
 									icon: "success",
 									duration: 1000
 								});
-								uni.reLaunch({
-									url: '/pages/practicePage/commitPlan/commitPlan'
-								});
+								// uni.reLaunch({
+								// 	url: '/pages/practicePage/commitPlan/commitPlan'
+								// });
 							}
 						},
 						fail: () => {},
